@@ -1,6 +1,6 @@
 1. Quelle est la différence entre Vulkan, OpenGL et Direct3D ?
 2. Peux tu expliquer comment tu écrirais un shader pour un effet spécifique (blur, noise, normal map, etc.) ?
-3. Pour quels usages utiliserais-tu un compute shader ? 
+3. C'est quoi un Compute Shader ? Pour quels usages utiliserais-tu un compute shader ? En quoi est-ce qu'il diffère des autres shaders ? 
 4. Comment gères tu le multi-plateforme (ex. gérer GLSL et HLSL ensemble) ?
 5. C'est quoi une bindless texture ?
 6. Comment implémenterais-tu un algorithme de convolution optimisé sur GPU ?
@@ -27,3 +27,11 @@
 27. Quel est le dernier article sur le graphisme que vous avez lu, et pouvez-vous me l'expliquer ? (c'était une question assez courante)
 28. Décrivez l'entièreté du [pipeline graphique](https://en.wikipedia.org/wiki/Graphics_pipeline)
 29. C'est quoi le RHI dans les moteurs de rendu moderne ?
+30. Explique les notions d’**espace monde** (world space), **espace objet** (object space) et **espace caméra** (camera space).
+31. Explique nous comment un triangle est rendu à l'écran
+32. C'est quoi l'instancing ?
+33. Quelle est la différence entre l'instance rendering et le bash rendering ?
+34. Qu'est-ce que l'overdraw ? Comment est-ce qu'on peut résoudre les problématiques d'overdraw ?
+35. Comment transformer un vecteur d'un espace local à un espace monde ?
+36. Comment calcule-t-on une normale à une surface définie par 3 points ?
+37. Quelle est la différence entre les coordonnées orthographique et les coordonnées en perspectives?
