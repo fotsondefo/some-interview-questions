@@ -8,3 +8,10 @@
 8. Comment fonctionne le trilinear filtering ?
 9. Quelles sont les causes du moiré dans les rendu de textures ?
 10. Explique brièvement le supersampling vs le multisampling.
+11. Comment est-ce que tu définirais une image ?
+12. Quels sont les types d'images que tu connais ?
+13. C'est quoi la résolution d'une image ?
+14. Cites quelques formats d'images que tu connais ? Quelles sont leurs particularités ?
+15. À quoi sert la normalisation en traitement d'image ?
+16. C'est quoi un filtre spatial ?
+17. C'est quoi la convolution ?
