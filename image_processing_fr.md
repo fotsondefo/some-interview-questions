@@ -15,7 +15,8 @@
 15. À quoi sert la normalisation en traitement d'image ?
 16. C'est quoi un filtre spatial ?
 17. C'est quoi la convolution ?
-18. C'est quoi la correlation ? C'est quoi la différence avec la convolution ?  
-19. C'est quoi un filtre linéaire ? Quelle est la différence avec les filtres non linéaires ?
-20. C'est quoi une distribution normale (ou courbe de Gauss, ou loi normale) ?
-21. 
+18. Explique l'équation de convolution.
+19. C'est quoi la correlation ? C'est quoi la différence avec la convolution ?  
+20. C'est quoi un filtre linéaire ? Quelle est la différence avec les filtres non linéaires ?
+21. C'est quoi une distribution normale (ou courbe de Gauss, ou loi normale) ?
+22. 
