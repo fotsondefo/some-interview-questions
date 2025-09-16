@@ -15,3 +15,4 @@
 15. À quoi sert la normalisation en traitement d'image ?
 16. C'est quoi un filtre spatial ?
 17. C'est quoi la convolution ?
+18. C'est quoi un filtre linéaire ? Quelle est la différence avec les filtres non linéaires ? 
