@@ -36,3 +36,4 @@
 36. Comment calcule-t-on une normale à une surface définie par 3 points ?
 37. Quelle est la différence entre les coordonnées orthographique et les coordonnées en perspectives?
 38. Que signifie `layout(location = N)` et pourquoi cette mention est importante dans les shaders ?
+39. C'est quoi le rendu PBR ? Explique le principe.
