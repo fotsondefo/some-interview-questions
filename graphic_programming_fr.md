@@ -37,3 +37,4 @@
 37. Quelle est la différence entre les coordonnées orthographique et les coordonnées en perspectives?
 38. Que signifie `layout(location = N)` et pourquoi cette mention est importante dans les shaders ?
 39. C'est quoi le rendu PBR ? Explique le principe.
+40. Quand est-ce que les textures PBR sont elles utiles ? Quand elle ne le sont pas quelles alternatives existe-il ?
